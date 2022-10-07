@@ -5,10 +5,7 @@
 ### [Documentation](https://elteoremadebeethoven.github.io/manim_3feb_docs.github.io/html/index.html)
 ### Freelance job
 
-If you need an animation made in Manim **I can do it for you**. I also give private tutorials on Manim, Python and LaTeX.
-* Gmail: theoremofbeethoven@gmail.com
-* Discord: theoremofbeethoven#2781
-* Reddit: u/TheoremofBeethoven
+
 
 ### This tutorial is based on the manim version of [3 february of 2019](https://github.com/3b1b/manim/tree/3b088b12843b7a4459fe71eba96b70edafb7aa78) 
 
